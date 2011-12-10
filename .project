@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LabDM-II</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/chineseKolganov.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Dropbox/IFMO/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BA%D0%B0/chinese.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
