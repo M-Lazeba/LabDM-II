@@ -16,9 +16,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/chineseKolganov.java</name>
+			<name>src/EdmondsKarp.java</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Dropbox/IFMO/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BA%D0%B0/chinese.java</locationURI>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Dropbox/EdmondsKarp.java</locationURI>
+		</link>
+		<link>
+			<name>src/Graph.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Dropbox/Graph.java</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
